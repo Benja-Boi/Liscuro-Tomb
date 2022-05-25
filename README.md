@@ -13,6 +13,14 @@ https://github.com/Ordoga
 
 Some sample clips:
 
+Tutorial:
+
 ![](https://github.com/Benja-Boi/Liscuro-Tomb/blob/main/Liscuro%201.gif)
+
+Early Level:
+
 ![](https://github.com/Benja-Boi/Liscuro-Tomb/blob/main/Liscuro%202.gif)
+
+Harder Level:
+
 ![](https://github.com/Benja-Boi/Liscuro-Tomb/blob/main/Liscuro%203.gif)
